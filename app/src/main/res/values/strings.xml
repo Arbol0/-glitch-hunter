@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> Glitch Hunter1 </string>
+    <string name="login_title"> Login </string>
+    <string name="login_btn"> Login </string>
+    <string name="singIn_btn"> Registrar </string>
+    <string name="loginGoogle_btn"> Sing up whith Google </string>
+    <string name="app_progress">com.example.glitchhunter1.PREFERENCE_FILE_KEY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

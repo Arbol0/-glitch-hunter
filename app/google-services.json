@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493270372314",
+    "project_id": "prueba-1-1f95e",
+    "storage_bucket": "prueba-1-1f95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493270372314:android:48f8a190265421cd5dbae3",
+        "android_client_info": {
+          "package_name": "com.example.glitchhunter1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493270372314-lahkp2vjcjrggb5n840ue448354795p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDvce2h5KXqnMObwng7gh5_4rx-dyzFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493270372314-kskng0hodekhdr357fbe1vimcs2k9ppg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
